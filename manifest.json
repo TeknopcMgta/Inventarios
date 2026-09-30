@@ -1,6 +1,6 @@
 {
-  "name": "Kardumenbeachclub",
-  "short_name": "KARDUMEN",
+  "name": "Inventarios",
+  "short_name": "Inventarios",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#121212",
